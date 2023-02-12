@@ -6,9 +6,7 @@
 - This is a simple linear regression task as it involves just 2 variables.<br>
 - You can use R, Python, SAS Enterprise Miner or any other tool.<br>
 - What will be predicted score if a student studies for 9.25 hrs/ day? <br>
-- 
-> Solution:
-<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Prediction%20using%20Supervised%20ML/Supervised%20ML%20.ipynb"> Prediction using Supervised ML</a>
+
 
 
 <br><br>
@@ -20,8 +18,6 @@
 represent it visually.<br>
 - Use R or Python or perform this task<br>
 
-> Solution:
-<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Prediction%20using%20Unsupervised%20ML/Unsupervised%20ML.ipynb"> Prediction using UnSupervised ML</a>
 
 
 <br><br>
@@ -35,8 +31,6 @@ make more profit.<br>
 - What all business problems you can derive by exploring the data?<br>
 - You can choose any of the tool of your choice<br>
 (Python/R/Tableau/PowerBI/Excel/SAP/SAS)<br>
-> Solution:
-<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Exploratory%20Data%20Analysis%20-%20Retail/Exploratory%20Data%20Analysis%20-%20Retail.ipynb"> Exploratory Data Analysis-Retail</a>
 
 
 <br><br>
@@ -49,8 +43,6 @@ make more profit.<br>
 predict the right class accordingly. <br>
 - Use R or Python or perform this task<br>
 - Here is the dataset :
-> Solution:
-<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Prediction%20using%20Decision%20Tree%20Algorithm/TSF%20task%234.ipynb">Prediction using DecisionTreeAlgorithm </a>
 
 
 <br><br>
@@ -63,8 +55,6 @@ predict the right class accordingly. <br>
 - What all business problems you can derive by exploring the data?<br>
 - You can choose any of the tool of your choice<br>
 (Python/R/Tableau/PowerBI/Excel/SAP/SAS)<br>
-> Solution:
-<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/To%20explore%20Business%20Analytics/Task-5.ipynb">To explore Business Analytics </a>
 
 
 <br><br>
@@ -93,8 +83,6 @@ predict the right class accordingly. <br>
 - You can choose any of the tool of your choice
 (Python/R/Tableau/PowerBI/Excel/SAP/SAS)<br>
 
-> Solution:
-<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Exploratory%20Data%20Analysis%20-%20Sports/Exploratory%20Data%20Analysis%20-%20Sports.ipynb">Exploratory Data Analysis - Sports</a>
 
 
 <br><br>
@@ -114,8 +102,7 @@ while not changing the objective of the task.<br>
   - Download historical stock prices from <a href="https://in.finance.yahoo.com/quote/%5EBSESN/history/">finance.yahoo.com</a><br>
   - Download textual (news) data from https://bit.ly/36fFPI6
 </a><br>
-> Solution:
-<a href="https://github.com/Kushal997-das/THE-SPARKS-FOUNDATION/blob/master/Stock%20Market%20Prediction%20using%20Numerical%20and%20Textual%20Analysis/Stock%20Market%20Prediction%20.ipynb">Stock Market Prediction using Numerical and Textual Analysis</a>
+
 
 <br><br>
 <img height="27" src="https://img.shields.io/badge/Timeline Analysis: COVID 19 -Level  Advanced-red.svg?&style=for-the-badge&logo=TheSparksFoundation&logoColor=blue"/>
